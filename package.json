@@ -1,0 +1,10 @@
+{
+  "name": "npm-private",
+  "version": "1.1.1",
+  "description": "Testing stuff",
+  "scripts": {
+    "prepack": "true"
+  },
+  "dependencies": {
+  }
+}
